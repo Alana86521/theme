@@ -1,0 +1,28 @@
+/**
+ * @name Dark purple
+ * @author allen86521
+ * @version 1.0
+*/
+
+@import url('https://raw.githubusercontent.com/Allen-86521/reeeee/main/main.css');
+
+@import url('https://raw.githubusercontent.com/Allen-86521/reeeee/main/hide.css');
+
+:root {
+  --rgb-highlight: 140, 110, 255; 
+  --rgb-background: 0, 0, 0; 
+  --rgb-text: 140, 100, 198;
+  --rgb-close-button: 212, 18, 39; 
+  --rgb-online-color: 120, 0, 210; 
+  --rgb-afk-color: 255, 255, 51; 
+  --rgb-dnd-color: 255, 0, 0; 
+  --rgb-streaming-color: 188, 19, 254; 
+
+  --transition-time: .3s; 
+
+  --background-image: unset;
+  --background-position: center; 
+  --background-size: cover; 
+  --background-blur: 5px; 
+  --background-brightness: 100%; 
+}
