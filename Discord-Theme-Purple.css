@@ -1,0 +1,72 @@
+/**
+ * @name Meh Theme
+ * @author Alana :3
+ * @version 2.0.0
+ * @description A Theme i maked :3
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ModularDesign.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+
+:root {
+  --undefined: 0;
+  --color1: 38,0,91;
+  --color2: 20,21,22;
+  --color3: 103,13,189;
+  --undefined: 0;
+  --ColorOpacity: 0.5;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://i.imgur.com/gOOrfRm.png');
+  --undefined: 0;
+  --FVUI: 0;
+  --image: url('https://i.imgur.com/WfSy0sX.jpeg');
+  --OpacityBG: 100%;
+  --BlurBG: 10px;
+  --undefined: 0;
+  --outline: 3px;
+  --outlineCLR: 50, 9, 126;
+  --outlineBR: 16px;
+  --outlineMG: 2rem;
+  --outlineBS: 15px;
+  --outlineBGclr: unset;
+  --outlineBGalpha: 1;
+  --outlineBLUR: 15;
+  --version: 'Mrow :3';
+}
+/*
+:root {
+  --undefined: 0;
+  --color1: 247,168,184;
+  --color2: 143,206,255;
+  --color3: 255,255,255;
+  --undefined: 0;
+  --ColorOpacity: 0.5;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://i.imgur.com/gOOrfRm.png');
+  --undefined: 0;
+  --FVUI: 0;
+  --image: url('https://i.imgur.com/WfSy0sX.jpeg');
+  --OpacityBG: 100%;
+  --BlurBG: 10px;
+  --undefined: 0;
+  --outline: 3px;
+  --outlineCLR: 247,168,184;
+  --outlineBR: 16px;
+  --outlineMG: 2rem;
+  --outlineBS: 15px;
+  --outlineBGclr: unset;
+  --outlineBGalpha: 1;
+  --outlineBLUR: 15;
+  --version: 'Mrow :3';
+}
+ */
+
+
